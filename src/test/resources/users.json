@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "firstName": "João",
+      "lastName": "Silva",
+      "document": "123.456.789-00",
+      "balance": 1000.00,
+      "email": "joao.silva@email.com",
+      "password": "senha123",
+      "userType": "COMMON"
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Santos",
+      "document": "987.654.321-00",
+      "balance": 5000.00,
+      "email": "maria.santos@email.com",
+      "password": "senha456",
+      "userType": "MERCHANT"
+    },
+    {
+      "firstName": "Pedro",
+      "lastName": "Oliveira",
+      "document": "456.789.123-00",
+      "balance": 2500.00,
+      "email": "pedro.oliveira@email.com",
+      "password": "senha789",
+      "userType": "COMMON"
+    }
+  ]
+} 
